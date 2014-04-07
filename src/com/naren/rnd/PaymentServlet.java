@@ -1,4 +1,4 @@
-package com.mayank.rnd;
+package com.naren.rnd;
 
 import java.io.IOException;
 import java.io.PrintWriter;

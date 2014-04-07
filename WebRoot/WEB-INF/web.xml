@@ -13,7 +13,7 @@
     <description></description>
     <display-name>PaymentServlet</display-name>
     <servlet-name>PaymentServlet</servlet-name>
-    <servlet-class>com.mayank.rnd.PaymentServlet</servlet-class>
+    <servlet-class>com.naren.rnd.PaymentServlet</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>PaymentServlet</servlet-name>
