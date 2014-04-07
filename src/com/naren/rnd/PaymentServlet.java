@@ -20,7 +20,7 @@ import com.stripe.exception.InvalidRequestException;
 import com.stripe.model.Customer;
 
 /**
- * Servlet implementation class PaymentServlet
+ * Servlet implementation class PaymentServlet of stripe
  */
 public class PaymentServlet extends HttpServlet 
 {
