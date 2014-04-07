@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="StripeR&amp;D"
+  id="myeclipse.1378138060289"
+  context-root="/StripeR&amp;D"
+  j2ee-spec="5.0"
+  archive="StripeR&amp;D.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
